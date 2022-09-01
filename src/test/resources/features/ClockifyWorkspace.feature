@@ -1,4 +1,3 @@
-@prueba
 Feature: Workspace
   COMO usuario de Clockify
   QUIERO ver las configuraciones de mi Worckspace
@@ -22,3 +21,4 @@ Feature: Workspace
     Examples:
       | operation | entity | jsonName     | status |
       | GET       | ERROR  | workspace/rq | 401    |
+

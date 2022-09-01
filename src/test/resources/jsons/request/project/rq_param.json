@@ -1,0 +1,8 @@
+{
+  "url": "{{url}}",
+  "headers": {
+    "X-Api-Key": "{{key}}",
+    "Content-Type": "application/json"
+  },
+  "endpoint": "/workspaces/{{workspace}}/projects"
+}

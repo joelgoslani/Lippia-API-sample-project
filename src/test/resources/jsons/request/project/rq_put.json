@@ -1,0 +1,17 @@
+{
+  "url": "https://api.clockify.me/api/v1",
+  "headers": {
+    "X-Api-Key": "OWY0MzM4YjYtODM2OC00MmRjLTlhZDEtODE3N2M1NzkzMTI4",
+    "Content-Type": "application/json"
+  },"body": {
+  "name": "Curso Automation 5",
+  "isPublic": "false",
+  "hourlyRate": {
+    "amount": 0
+  },
+  "color": "#f44336",
+  "billable": "true",
+  "archived": "true"
+},
+  "endpoint": "/workspaces/6306404cd5efc140a0393f03/projects/630640aaaeab8010b064d09d"
+}
